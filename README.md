@@ -4,6 +4,9 @@ Interface React para visualização e gestão de indicadores ESG (ambientais, so
 
 ## Estrutura
 
+Veja também [a organização detalhada](docs/estrutura.md). Os diretórios `tests/` e `config/` estão preparados para testes e configuração da aplicação.
+
+
 ```text
 .
 ├── src/
